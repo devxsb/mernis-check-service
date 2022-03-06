@@ -1,5 +1,3 @@
-package mernisServiceBackend;
-
 import java.rmi.RemoteException;
 
 import Concrete.BaseCustomerManager;

@@ -1,4 +1,4 @@
-package mernisCheckService;
+package mernisServiceBackend;
 
 import java.rmi.RemoteException;
 
